@@ -7,6 +7,7 @@
 "2 Tap Clear Badge" = "두번 터치시 배지 삭제";
 "Use Custom Number" = "사용자 설정 아이콘 개수";
 "Icons Per Line" = "한줄에 표시되는 아이콘 개수";
+"5 Rows" = "5줄 배열";
 "One" = "1 개";
 "Two" = "2 개";
 "Three" = "3 개";
@@ -19,6 +20,7 @@
 "Ten" = "10 개";
 "Resizing" = "크기 조절";
 "Resize Icons" = "아이콘 크기 조절";
+"Size" = "크기";
 "Resize Dock Icons" = "독 아이콘 크기 조절";
 "Resize Switcher Icons" = "스위처 아이콘 크기 조절";
 "Hide Icons" = "아이콘 숨기기";
