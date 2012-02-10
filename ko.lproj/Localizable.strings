@@ -36,4 +36,4 @@ RESTORE = "복원";
 SAVING = "저장 중";
 RESTORING = "복원 중";
 
-DAEMON_NOT_RUNNING_MSG = "The Springtomize daemon is not running: this means that something wrong happened when Springtomize was installed. Please try reinstalling Springtomize and rebooting your device. Most of the times this problem is related to a launchd issue with the 5.0.1 untethered jailbreak.";
+DAEMON_NOT_RUNNING_MSG = "Springtomize 데몬이 실행되고 있지 않습니다: Springtomize 설치시 문제가 발생한 것으로 보입니다. Springtomize를 다시 설치하고 장치를 재부팅 해보시기 바랍니다. 대부분의 경우 이 문제는 5.0.1 완탈옥의 launchd 문제와 관련되어 있습니다.";
