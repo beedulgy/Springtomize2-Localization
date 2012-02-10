@@ -17,6 +17,8 @@
 "None" = "없음";
 "Grayscale" = "흑백 효과";
 "Sepia" = "세피아 효과";
+"LockScreen" = "잠금 화면";
+"Clock Color" = "시계 색상";
 "Black" = "검은색";
 "Gray" = "회색";
 "White" = "흰색";
